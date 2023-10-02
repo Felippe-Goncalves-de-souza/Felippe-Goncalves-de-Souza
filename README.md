@@ -18,4 +18,8 @@
 
 ## Redes sociais acessíveis:
 
+<a target="_blank" hrer="https://www.linkedin.com/in/felippe-gon%C3%A7alves-de-souza-678a4b292/">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+</a>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felippe-gon%C3%A7alves-de-souza-678a4b292/)
