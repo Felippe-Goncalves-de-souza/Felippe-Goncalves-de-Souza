@@ -13,13 +13,8 @@
 
 
 ![Felippe GitHub stats](https://github-readme-stats.vercel.app/api?username=Felippe-Goncalves-de-souza&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felippe-Goncalves-de-souza&theme=blue-green)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felippe-Goncalves-de-souza&layout=compact)
 
 ## Redes sociais acessíveis:
-
-<a target="_blank" hrer="https://www.linkedin.com/in/felippe-gon%C3%A7alves-de-souza-678a4b292/">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
-</a>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felippe-gon%C3%A7alves-de-souza-678a4b292/)
